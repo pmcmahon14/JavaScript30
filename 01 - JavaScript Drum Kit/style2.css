@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+    background: url(https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/c/26/c26a2d25-3395-55b7-9c29-235f6995f2c6/59df77ba5da8d.image.jpg?resize=1200%2C800) bottom center;
     background-size: cover;
 }
 
@@ -48,4 +48,10 @@ kbd {
     text-transform: uppercase;
     letter-spacing: .1rem;
     color: #ffc600;
+}
+
+#stage {
+    height: 300px;
+    background-color: #9a6514;
+    background-image: linear-gradient(to bottom, #9a6514, black);
 }
